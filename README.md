@@ -8,3 +8,6 @@ Get the following Gainwell accesses:
 - [GitHub] ()
 - [Sandbox] ()
 - [AWX] ()
+$ git rm readme.md
+$ git commit
+$ git push
