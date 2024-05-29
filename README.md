@@ -3,11 +3,6 @@ As a part of AMS (AWS Managed Services) offboard and Gainwell Managed Services (
 
 ## Where DO I Start?
 Get the following Gainwell accesses:
-1.	Teams Channel 
-2.	ADO Board 
-3.	GitHub 
-4.	Sandbox
-5.	AWX
 - [Teams Channel] ()
 - [ADO Board] ()
 - [GitHub] ()
